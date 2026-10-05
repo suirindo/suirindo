@@ -11,7 +11,7 @@ Netsujo Inc. is a Kyoto-based Web3 startup working across Web3 & AI business dev
 
 ## Open-source work
 
-- [agent-role-contracts](https://github.com/suirindo/agent-role-contracts) — offline declaration checks for AI-agent roles, authority, task/action binding, filesystem-write mapping, lifecycle consistency, review separation, and handoffs. Public preview `0.5.0-alpha.1` is available on npm `next`.
+- [agent-role-contracts](https://github.com/suirindo/agent-role-contracts) — offline declaration checks for AI-agent roles, authority, task/action binding, filesystem-write mapping, lifecycle consistency, review separation, and handoffs. Stable `0.5.0` is published on npm `latest`.
 - [netsujo-aio-seo](https://github.com/suirindo/netsujo-aio-seo) — AIO/SEO toolkit developed through production work on Netsujo sites
 - [netsujo-owner-merge-authority-gate](https://github.com/suirindo/netsujo-owner-merge-authority-gate) — external Owner READY/MERGE authority gate
 
