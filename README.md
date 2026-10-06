@@ -4,6 +4,7 @@
 
 Netsujo Inc. is a Kyoto-based Web3 startup working across Web3 & AI business development, implementation, and web sales infrastructure.
 
+- [Official Netsujo GitHub organization](https://github.com/netsujo-inc)
 - [Company Profile — English (PDF)](https://netsujo.jp/en/downloads/company-profile)
 - [Netsujo website](https://netsujo.jp/en)
 - [Netsujo SIGNAL](https://netsujo.jp/en/services/signal)
